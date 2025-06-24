@@ -30,7 +30,7 @@ The dataset contains information scraped from Amazon product pages, including:
 - Handling missing variable
 - Data cleaning and formating
 - Data filtering
-### project Objectives 
+### Analysis Tasks
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
 3. What is the total number of reviews per category?
