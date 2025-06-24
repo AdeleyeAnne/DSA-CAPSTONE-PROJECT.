@@ -22,9 +22,14 @@ The dataset contains information scraped from Amazon product pages, including:
 - Ms Excel (for Data Analysis cleaning)
   - For data collection
   - For data cleaning
-- Pivot Table and chart (for Dashboard Visualization)
+- Pivot Table and chart (for analysis and Dashboard Visualization)
 - Ms power point (for Presentation)
 
+### Data cleaning and preparation
+- Data Loading and inspection
+- Handling missing variable
+- Data cleaning and formating
+- Data filtering
 ### project Objectives 
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
