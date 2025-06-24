@@ -10,7 +10,7 @@ This project aims at analyzing store and logistics inventory by importing datase
 The primary data source of data used here is KMS Sql Case Study.csv and Amazon case study.xlsx this data is from Incubator hub tutor which i downloaded from class canvas for the purpose of the capstone project
 
 ### Tools Used
-- Ms Excel for Data Analysis cleaning [Download here](http://C:\Users\USER\Downloads\Amazon case study.xlsx)
+- Ms Excel for Data Analysis cleaning [Download here](https://docs.google.com/spreadsheets/d/1ivWy1378UJeEY_QdUYtPXf5nC0rjA77a/edit)
     - For data collection
     - For data cleaning
 - SQL Server ( for Querying and Analysis)
