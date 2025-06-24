@@ -4,18 +4,24 @@
 ## Project Topic :  Kultra Mega Stores Inventory Analysis and Amazon Product Review Analysis
 
 ### Project overview
-This project aims at analyzing store and logistics inventory by importing dataset from excel file containing order data from 2009 to 2012 using structure query language (SQL), and another dataset for powerBi analysis by analyzing the various parameters in the dataset i seek to extract business insights.which will enable me  tell a compelling story from the insight and present key findings 
+This project aims at analyzing store and logistics inventory by importing dataset from excel file containing order data from 2009 to 2012 using structure query language (SQL), and analyzing the various parameters in the dataset i seek to extract business insights.which will enable me  tell a compelling story from the insight and present key findings 
 
 ### Data Sources
-The primary data source of data used here is KMS Sql Case Study.csv and Amazon case study.xlsx this data is from Incubator hub tutor which i downloaded from class canvas for the purpose of the capstone project
+The primary data source of data used here is KMS Sql Case Study.csv this data is from Incubator hub tutor which i downloaded from class canvas for the purpose of the capstone project
 
 ### Tools Used
-- Ms Excel for Data Analysis cleaning [Download here](https://docs.google.com/spreadsheets/d/1ivWy1378UJeEY_QdUYtPXf5nC0rjA77a/edit)
+- Ms Excel (for Data Analysis cleaning)
     - For data collection
     - For data cleaning
 - SQL Server ( for Querying and Analysis)
 - Pivot Table and chart (for Dashboard Visualization) 
 - Ms power point (for Presentation)
+  
+### Data cleaning and preparation
+1. Data Loading and inspection
+2. Handling missing variable
+3. Data cleaning and formating
+4. Data filtering
 
 
    
