@@ -1,6 +1,11 @@
 # PowerBI Project 
 
 ## 📋Project Topic : Amazon Product Review Analysis
+## 📔Project overview
+with analysing product and customer review data to generate insights that can
+
+guide product improvement, marketing strategies, and customer engagement.
+
 
 
 ### project Objectives 
