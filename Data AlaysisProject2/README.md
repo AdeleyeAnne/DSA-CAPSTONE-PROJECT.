@@ -5,7 +5,7 @@
 ## 📔Project overview
 This project aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
-### 📔Dataset Description : 
+### 📚 Dataset Description : 
 The dataset contains information scraped from Amazon product pages, including:
 
 • Product details: name, category, price, discount, and ratings
