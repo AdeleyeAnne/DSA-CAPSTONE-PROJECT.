@@ -14,7 +14,6 @@ The primary data source of data used here is KMS Sql Case Study.csv this data is
     - For data collection
     - For data cleaning
 - SQL Server ( for Querying and Analysis)
-- Pivot Table and chart (for Dashboard Visualization) 
 - Ms power point (for Presentation)
 
 ### 📌 Data cleaning and preparation
