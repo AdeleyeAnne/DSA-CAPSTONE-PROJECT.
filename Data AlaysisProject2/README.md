@@ -1,3 +1,8 @@
+# PowerBI Project 
+
+## 📋Project Topic : Amazon Product Review Analysis
+
+
 ### project Objectives 
 
 1. What is the average discount percentage by product category?
