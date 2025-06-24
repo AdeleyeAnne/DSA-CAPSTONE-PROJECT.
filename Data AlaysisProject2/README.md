@@ -1,15 +1,24 @@
 # PowerBI Project 
 
 ## 📋Project Topic : Amazon Product Review Analysis
+
 ## 📔Project overview
-with analysing product and customer review data to generate insights that can
+This project aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
-guide product improvement, marketing strategies, and customer engagement.
+### Dataset Description : 
+The dataset contains information scraped from Amazon product pages, including:
 
+• Product details: name, category, price, discount, and ratings
 
+• Customer engagement: user reviews, titles, and content
+
+• Each row represents a unique product, with aggregated reviewer data stored as comma-separated values
+
+  . Total Records: 1,465 rows
+
+  . TotalFields: 16 columns
 
 ### project Objectives 
-
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
 3. What is the total number of reviews per category?
