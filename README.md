@@ -40,7 +40,8 @@ purchase?
 Express Air is the fastest but the most expensive one, do you think the company 
 appropriately spent shipping costs based on the Order Priority? Explain your answer
 
-### Data Analysis
+### 📂Data Analysis ( Files Included)
+  - SQL Queries [.sql](https://drive.google.com/file/d/1MNWipumlzf2AnBSs5fsWZZhAYdkuLQIP/view)
 
 
 
