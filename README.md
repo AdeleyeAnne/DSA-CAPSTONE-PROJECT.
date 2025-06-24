@@ -44,8 +44,10 @@ appropriately spent shipping costs based on the Order Priority? Explain your ans
   - SQL Queries [.sql](https://drive.google.com/file/d/1kXkoziulCZYMmkZHG1JhRAen737SdZVX/view)
   -  Project summary prsentation[.pptx](https://us.docworkspace.com/d/sIB6divU-3ozrwgY)
   -  project dataset[.csv file](https://us.docworkspace.com/d/sIGadivU-io7rwgY)
-
-
+    
+### 👩Author
+  Adeleye Anne
+   [linkedlin](https://www.linkedin.com/in/adeleyeanne)
 
 
    
