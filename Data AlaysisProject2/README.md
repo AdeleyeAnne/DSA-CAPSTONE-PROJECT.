@@ -18,6 +18,13 @@ The dataset contains information scraped from Amazon product pages, including:
 
   . TotalFields: 16 columns
 
+  ### Tools Used
+- Ms Excel (for Data Analysis cleaning)
+  - For data collection
+  - For data cleaning
+- Pivot Table and chart (for Dashboard Visualization)
+- Ms power point (for Presentation)
+
 ### project Objectives 
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
