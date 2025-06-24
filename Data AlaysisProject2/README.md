@@ -17,8 +17,8 @@ The dataset contains information scraped from Amazon product pages, including:
   . Total Records: 1,465 rows
 
   . TotalFields: 16 columns
-
-  ### Tools Used
+  
+  ### 💻Tools Used
 - Ms Excel (for Data Analysis cleaning)
   - For data collection
   - For data cleaning
