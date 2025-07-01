@@ -1,14 +1,14 @@
-# Excel Project Analysis 
+# 📊Excel Project Analysis 
 
 ## 📋Project Topic : Amazon Product Review Analysis
 
-## Company Overview
+## 📉Company Overview
 RetailTech is a company that provides e-commerce analytics solutions to sellers on platforms like Amazon.
 
 ## 📔Project overview
 This project aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
-### 📚 Dataset Description : 
+### 📚Dataset Description : 
 The dataset contains information scraped from Amazon product pages, including:
 
 • Product details: name, category, price, discount, and ratings
@@ -21,7 +21,7 @@ The dataset contains information scraped from Amazon product pages, including:
 
   . TotalFields: 16 columns
 
-  ### Analysis Focus: 
+  ### 📠Analysis Focus: 
   Tasks focus on pricing, ratings, discount patterns, and category insights
   
   ### 💻Tools Used
@@ -31,14 +31,14 @@ The dataset contains information scraped from Amazon product pages, including:
 - Pivot Table and chart (for analysis and Dashboard Visualization)
 - Ms power point (for Presentation)
 
-### Data cleaning and preparation
+### 🔍Data cleaning and preparation
 - Data Loading and inspection
 - Handling missing variable
 - Data cleaning and formating
 - Data filtering
 - Removing duplicates values 
   
-### Analysis Tasks
+### 📋Analysis Tasks
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
 3. What is the total number of reviews per category?
