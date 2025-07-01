@@ -1,9 +1,16 @@
-### Taking a view look of our data set
- select *
- from KMS_Inventory
- 
---- The table has 6929 and 21 columns--- 
+## 📊CAPSTONE SQL PROJECT
 
+### 🔍DATASET OVERVIEW
+- ** Table name: ** `KMS_Inventory`
+- ** Total records: **  6929 rows
+- ** columns: ** 21
+- 
+### 👀Taking a view look of our data set
+
+ ```sql
+select *
+ from KMS_Inventory:
+ 
 --- using the Row id as our primary key(unique identifier since it contains no duplicate value
 Alter Table KMS_Inventory
 add primary key( Row_id)
