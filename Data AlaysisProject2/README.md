@@ -1,4 +1,4 @@
-# PowerBI Project 
+# Excel Project Analysis 
 
 ## 📋Project Topic : Amazon Product Review Analysis
 
