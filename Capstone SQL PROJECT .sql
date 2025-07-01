@@ -1,6 +1,8 @@
---- Taking a view look of our data set---
+ ### Taking a view look of our data set
  select *
+ 
  from KMS_Inventory
+ 
 --- The table has 6929 and 21 columns--- 
 
 --- using the Row id as our primary key(unique identifier since it contains no duplicate value
