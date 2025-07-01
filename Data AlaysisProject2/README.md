@@ -2,6 +2,9 @@
 
 ## 📋Project Topic : Amazon Product Review Analysis
 
+## Company Overview
+RetailTech is a company that provides e-commerce analytics solutions to sellers on platforms like Amazon.
+
 ## 📔Project overview
 This project aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
@@ -17,6 +20,9 @@ The dataset contains information scraped from Amazon product pages, including:
   . Total Records: 1,465 rows
 
   . TotalFields: 16 columns
+
+  ### Analysis Focus: 
+  Tasks focus on pricing, ratings, discount patterns, and category insights
   
   ### 💻Tools Used
 - Ms Excel (for Data Analysis cleaning)
@@ -30,6 +36,8 @@ The dataset contains information scraped from Amazon product pages, including:
 - Handling missing variable
 - Data cleaning and formating
 - Data filtering
+- Removing duplicates values 
+  
 ### Analysis Tasks
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
