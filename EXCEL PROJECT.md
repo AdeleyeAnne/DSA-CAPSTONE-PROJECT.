@@ -53,3 +53,8 @@ The dataset contains information scraped from Amazon product pages, including:
 12. How many products have fewer than 1,000 reviews?
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+ ### 📂Data Analysis ( Files Included)
+  - view project here [Excel workbook](https://docs.google.com/spreadsheets/d/1ujSgYgPJGukD7-3DATln1vbaTeEIzaeq/edit?usp=drive_link&ouid=117267960839273126726&rtpof=true&sd=true)
+  -  Project summary presentation[.pptx]()
+  -  project dataset[.xlsx file](https://docs.google.com/spreadsheets/d/1ivWy1378UJeEY_QdUYtPXf5nC0rjA77a/edit?usp=drive_link&ouid=117267960839273126726&rtpof=true&sd=true)
