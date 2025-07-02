@@ -6,7 +6,7 @@
 RetailTech is a company that provides e-commerce analytics solutions to sellers on platforms like Amazon.
 ### 💻Project Dashboard
 
-![Dashboard Preview](images/https://github.com/AdeleyeAnne/DSA-CAPSTONE-PROJECT./blob/main/powerbi%20dashbpard.png)
+![Dashboard Preview](https://github.com/AdeleyeAnne/DSA-CAPSTONE-PROJECT./blob/main/powerbi%20dashbpard.png)
 
 ## 📔Project overview
 This project aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
