@@ -11,13 +11,11 @@
  
  The Average discount of product category amounted  ₹5538  
  Electronics product gave us the highest with a sum of  ₹10,103 while Toys and games gave us the least with a sum of  ₹50
-
 ![image](https://github.com/user-attachments/assets/dc85a386-f9b4-4b2e-a057-f11c291634c3)
 
 * How many products are listed under each category
 
 ![image](https://github.com/user-attachments/assets/5ecac755-7aa6-4fc0-be48-f013f1844df8)
-
  ![image](https://github.com/user-attachments/assets/2087ec5f-f998-495f-b94f-0bf0a845772c)
 
  * What is the total number of reviews per category
@@ -25,7 +23,69 @@
     Total	5519.3
    
 ![image](https://github.com/user-attachments/assets/52a90e4f-9dd8-42c6-a0ba-f61fdb0b059a)
-![image](https://github.com/user-attachments/assets/6ca7ec1c-85a6-43a2-ad64-bfd4310cf1fb)
+![image](https://github.com/user-attachments/assets/021be851-d826-42ba-9c9f-47bf1ce0450c)
+
+* Which products have the highest average ratings?
+  
+![image](https://github.com/user-attachments/assets/a3c4da7b-1cfb-4324-80a7-af826768dfa1)
+![image](https://github.com/user-attachments/assets/6ab9c0ce-5f89-43b3-a0e3-62342e943614)
+
+* What is the average actual price vs the discounted price by category?
+
+![image](https://github.com/user-attachments/assets/f318bcbf-642c-4aca-ac99-aa40b79509c4)
+![image](https://github.com/user-attachments/assets/65bbc398-6e8d-40e7-b24b-eb1b1ffee797)
+
+* Which products have the highest number of reviews
+
+![image](https://github.com/user-attachments/assets/8f44ee6b-3141-4021-939f-20ee013b6b75)
+![image](https://github.com/user-attachments/assets/5e45bee4-3419-4ea8-89e4-e04ed5e9478a)
+
+* How many products have a discount of 50% or more?
+  
+662 has a discount of 50% or more
+  
+![image](https://github.com/user-attachments/assets/1327a171-aa1c-4ab9-adf1-6a8797ac8fb0)
+
+* What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)
+
+![image](https://github.com/user-attachments/assets/418d0846-7c64-43d3-b021-ad6e73f4a556)
+![image](https://github.com/user-attachments/assets/0cac7ba9-08e9-44aa-8891-8b13ca0465e9)
+
+* What is the total potential revenue (actual_price × rating_count) by category
+
+![image](https://github.com/user-attachments/assets/fe50a53f-1a69-4b85-8277-54af6e32a170)
+![image](https://github.com/user-attachments/assets/631e5a5b-f38d-4e5f-890f-c78cc076466a)
+
+* What is the number of unique products per price range bucket (e.g., <₹200,
+₹200–₹500, >₹500)?
+
+![image](https://github.com/user-attachments/assets/214834a6-9503-4857-bd52-a664043fc640)
+![image](https://github.com/user-attachments/assets/0599f85f-180c-4f9f-b0d6-94157da7e5c1)
+
+* How does the rating relate to the level of discount?
+
+![image](https://github.com/user-attachments/assets/ea4aa82a-65f9-430d-bf59-d347220425f9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
 
 
 
