@@ -41,7 +41,7 @@ The dataset contains information scraped from Amazon product pages, including:
 
 * The Category column was split using a delimiter to enhance clarity and support more granular analysis.
 
-####📊 New Calculated Columns Created
+#### 📊New Calculated Columns Created
 
 1. Average Discount Percentage
 = (Actual Price - Discounted Price) / Actual Price * 100
@@ -55,10 +55,11 @@ Discount Bucket
 = IF([@Discount%]<=10, "0–10%", 
   IF([@Discount%]<=20, "11–20%", 
   IF([@Discount%]<=30, "21–30%", ...)))
-Product Review 
+5. Product Review 
 = IF(Rating Count < 1000, "Fewer than 1000", "Greater than")
-Scaling Factor Calculation
+6. Scaling Factor Calculation
 = Average Rating + (Rating Count / 1000)
+- These calculated columns played a vital role in deriving actionable insights
   
 ### 📋Analysis Tasks
 1. What is the average discount percentage by product category?
