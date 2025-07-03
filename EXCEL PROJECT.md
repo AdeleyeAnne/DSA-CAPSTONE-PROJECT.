@@ -59,5 +59,4 @@ The dataset contains information scraped from Amazon product pages, including:
 
  ### 📂Data Analysis ( Files Included)
   - view project here [Excel workbook](https://docs.google.com/spreadsheets/d/1ujSgYgPJGukD7-3DATln1vbaTeEIzaeq/edit?usp=drive_link&ouid=117267960839273126726&rtpof=true&sd=true)
-  -  Project summary presentation[.pptx]()
   -  project dataset[.xlsx file](https://docs.google.com/spreadsheets/d/1ivWy1378UJeEY_QdUYtPXf5nC0rjA77a/edit?usp=drive_link&ouid=117267960839273126726&rtpof=true&sd=true)
