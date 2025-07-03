@@ -20,10 +20,6 @@ The dataset contains information scraped from Amazon product pages, including:
 
 • Each row represents a unique product, with aggregated reviewer data stored as comma-separated values
 
-  . Total Records: 1,465 rows
-
-  . TotalFields: 16 columns
-
   ### 📠Analysis Focus: 
   Tasks focus on pricing, ratings, discount patterns, and category insights
   
@@ -39,7 +35,30 @@ The dataset contains information scraped from Amazon product pages, including:
 - Handling missing variable
 - Data cleaning and formating
 - Data filtering
-- Removing duplicates values 
+- Removing duplicates values
+
+### 🏣Data Manipulation 
+
+* The Category column was split using a delimiter to enhance clarity and support more granular analysis.
+
+####📊 New Calculated Columns Created
+
+1. Average Discount Percentage
+= (Actual Price - Discounted Price) / Actual Price * 100
+2. Potential Revenue
+= Actual Price * Rating Count
+3. Discount Flag (≥50%)
+= IF(Discount % >= 50, "Yes", "No")
+4. Unique Products
+= IF(Discounted Price <= 500, "₹200–₹500", ">₹500")
+Discount Bucket
+= IF([@Discount%]<=10, "0–10%", 
+  IF([@Discount%]<=20, "11–20%", 
+  IF([@Discount%]<=30, "21–30%", ...)))
+Product Review 
+= IF(Rating Count < 1000, "Fewer than 1000", "Greater than")
+Scaling Factor Calculation
+= Average Rating + (Rating Count / 1000)
   
 ### 📋Analysis Tasks
 1. What is the average discount percentage by product category?
