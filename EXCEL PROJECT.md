@@ -59,6 +59,8 @@ The dataset contains information scraped from Amazon product pages, including:
 
 ### 📝Analysis Key insight 
 
+  - Analysis and Visualization[GitHub file](https://github.com/AdeleyeAnne/DSA-CAPSTONE-PROJECT./blob/main/Excel%20Analysis%20Insight.md)
+
 
  ### 📂Data Analysis ( Files Included)
   - view project here [Excel workbook](https://docs.google.com/spreadsheets/d/1ujSgYgPJGukD7-3DATln1vbaTeEIzaeq/edit?usp=drive_link&ouid=117267960839273126726&rtpof=true&sd=true)
