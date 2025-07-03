@@ -32,7 +32,7 @@ The dataset contains information scraped from Amazon product pages, including:
   - For data collection
   - For data cleaning
 - Pivot Table and chart (for analysis and Dashboard Visualization)
-- Ms power point (for Presentation)
+
 
 ### 🔍Data cleaning and preparation
 - Data Loading and inspection
