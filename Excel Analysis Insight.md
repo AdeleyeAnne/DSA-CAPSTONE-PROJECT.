@@ -65,6 +65,30 @@
 * How does the rating relate to the level of discount?
 
 ![image](https://github.com/user-attachments/assets/ea4aa82a-65f9-430d-bf59-d347220425f9)
+![image](https://github.com/user-attachments/assets/66c7a4b4-9542-4b4f-92d7-bc7f81a97b07)
+
+
+
+* How many products have fewer than 1,000 reviews
+
+![image](https://github.com/user-attachments/assets/2943aa5c-2dd5-4d96-800d-1ac2f469f36d)
+![image](https://github.com/user-attachments/assets/17d77947-2754-4cb0-a78c-0f4b2dd25a35)
+
+* . Which categories have products with the highest discounts?
+
+  Computers&Accessories has the highest	discount of 94% 
+
+  ![image](https://github.com/user-attachments/assets/f9eb1ff2-0bdb-4f08-add3-624b6a2e3a65)
+  ![image](https://github.com/user-attachments/assets/ceb01bcc-fa0a-4349-b9e8-d873a30eb467)
+
+*  Identify the top 5 products in terms of rating and number of reviews combined
+  
+![image](https://github.com/user-attachments/assets/036e0ea6-9745-4436-896e-7ade9cc98aeb)
+![image](https://github.com/user-attachments/assets/33835458-a788-4e79-a39a-3649ede0617f)
+
+
+
+
 
 
 
