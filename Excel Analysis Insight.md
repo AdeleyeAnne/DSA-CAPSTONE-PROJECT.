@@ -88,6 +88,50 @@
 
 
 
+## Analysis Review
+
+### Pricing
+- Total Actual Price: 7.5 million - Total Discounted Price: 4.4 million
+
+* The discounted prices are significantly lower than the actual prices, showing strong usage of promotional discounts.
+
+* Electronics, Home & Kitchen, and Computers & Accessories have the highest prices both in actual and discounted rate.
+
+* Discounts reduce prices drastically in categories like Office Products and Health & Personal Care.
+
+### Discount
+- Total discounted amount: ~3.1 million (inferred from actual vs. discounted totals).
+
+#### Discount Buckets:
+* Products with 50% discount: 662
+* Products with less than 1000 units sold: 310
+* Unique product count by discount: 849
+* Top discounts fall between 21–30%, 41–50%, and 71–80% in "Average Rating by Discount Bucket" 
+
+#### Discount by Category:
+* Electronics, Home & Kitchen, and Computers have the highest total discount values.
+
+### Review
+* Total Reviews: 17,653
+* Average Rating: ~4.2
+* Ratings mostly cluster between 3.8 and 4.5
+
+#### Highest-rated categories:
+* Electronics (8.5)
+* Computers (8.3)
+* Home Improvement (7.8)
+* Top-rated products fall in the range 7–8.5 
+
+### Category Insights
+* Top product categories (by count and value):
+   * Electronics
+   * Home & Kitchen
+   * Computers & Accessories
+#### Category Rating:
+* Electronics and Computers stand out with the highest average ratings with most reviews.
+#### Review-to-Product Ratio:
+- Some categories (e.g., Office Products, Health & Personal Care) have fewer reviews but higher average discounts.
+
 
 
 
