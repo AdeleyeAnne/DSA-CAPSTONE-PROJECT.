@@ -132,6 +132,83 @@
 #### Review-to-Product Ratio:
 - Some categories (e.g., Office Products, Health & Personal Care) have fewer reviews but higher average discounts.
 
+  ## Analysis Review
+
+### Pricing
+- Total Actual Price: 7.5 million - Total Discounted Price: 4.4 million
+
+* The discounted prices are significantly lower than the actual prices, showing strong usage of promotional discounts.
+
+* Electronics, Home & Kitchen, and Computers & Accessories have the highest prices both in actual and discounted rate.
+
+* Discounts reduce prices drastically in categories like Office Products and Health & Personal Care.
+
+### Discount
+- Total discounted amount: ~3.1 million (inferred from actual vs. discounted totals).
+
+#### Discount Buckets:
+* Products with 50% discount: 662
+* Products with less than 1000 units sold: 310
+* Unique product count by discount: 849
+* Top discounts fall between 21–30%, 41–50%, and 71–80% in "Average Rating by Discount Bucket" 
+
+#### Discount by Category:
+* Electronics, Home & Kitchen, and Computers have the highest total discount values.
+
+### Review
+* Total Reviews: 17,653
+* Average Rating: ~4.2
+* Ratings mostly cluster between 3.8 and 4.5
+
+#### Highest-rated categories:
+* Electronics (8.5)
+* Computers (8.3)
+* Home Improvement (7.8)
+* Top-rated products fall in the range 7–8.5 
+
+### Category Insights
+* Top product categories (by count and value):
+   * Electronics
+   * Home & Kitchen
+   * Computers & Accessories
+#### Category Rating:
+* Electronics and Computers stand out with the highest average ratings with most reviews.
+#### Review-to-Product Ratio:
+- Some categories (e.g., Office Products, Health & Personal Care) have fewer reviews but higher average discounts.
+
+#### 💰Pricing & Discount Behavior
+- Heavy Discounts: A gap of over ₹3.1 million between actual and discounted prices shows high promotional efforts.
+- Categories with Highest Prices and Discounts:
+  - Electronics, Home & Kitchen, and Computers & Accessories dominate both high pricing and discounting.
+- High Discount Brackets: Most discounts fall between 21–30%, 41–50%, and even 71–80%, reflecting aggressive markdowns.
+- 662 Products Have ≥ 50% Discount — showcasing a pricing strategy aimed at conversion.
+#### 🎯 Product Category Analysis
+-Highest Discount by Category: Computers & Accessories (94%) — potentially overstocked or seasonal clearance.
+- Average Discount by Category: Electronics lead with highest average discount; Toys & Games offer the least.
+- Price Distribution: Most products are priced below ₹500 — aligns with discount-heavy strategy.
+- High-Value Categories: Electronics, Home & Kitchen, and Computers stand out in terms of revenue contribution and product volume.
+#### 🌟 Ratings & Reviews
+- High Engagement: 17,653 reviews across products; ratings mostly between 3.8 and 4.5, suggesting general customer satisfaction.
+- Top Rated Categories:
+- Electronics: Avg. rating ~8.5
+- Computers: ~8.3
+- Home Improvement: ~7.8
+- Top Products: Identified based on a combination of rating and review volume — indicates popularity and reliability.
+
+### 📊 Other Key Insights
+- 50%+ Discount Products: 662 products — a major share.
+- Products with Fewer than 1,000 Reviews: 310 — could indicate new listings or low-performing products.
+- Rating vs. Discount: No direct correlation shown — implies customer satisfaction might not always depend on discount level.
+- Review-to-Product Ratio: Categories like Office Products and Health & Personal Care have fewer reviews despite high discounts — a sign of possible low visibility or relevance.
+
+### ✅ Conclusion & Recommendations
+Discount Strategy is Effective but may need optimization — especially for low-review categories.
+Customer Ratings Are Strong, but product awareness (e.g., in low-review products) should be improved.
+Focus marketing efforts on high-potential categories like Electronics and Computers.
+Consider evaluating ROI on heavily discounted products with low engagement — they may drain margins without strong sales.
+
+
+
 
 
 
