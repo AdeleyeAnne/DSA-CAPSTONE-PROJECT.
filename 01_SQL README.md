@@ -1,4 +1,5 @@
-# 📊  DSA-CAPSTONE-PROJECT.
+
+### 📊  DSA-CAPSTONE-PROJECT.
 ### 📂 CAPSTONE PROJECT: DATA ANALYSIS WITH INCUBATOR HUB. This repository contains the capstone project as part of the Data Analysis Class organized by Incubator Hub. The project showcases my ability to clean, analyze, and visualize data to derive actionable insights using Excel, SQL and PowerBI
 
 ## 📋Project Topic :  Kultra Mega Stores Inventory Analysis
@@ -17,7 +18,6 @@ The primary data source of data used here is KMS Sql Case Study.csv this data is
 - Ms power point (for Presentation)
 
 ### 📌 Data cleaning and preparation
-1. Data Loading and inspection
 2. Handling missing variable
 3. Data cleaning and formating
 4. Data filtering
