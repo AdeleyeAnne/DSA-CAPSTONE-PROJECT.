@@ -42,7 +42,7 @@ appropriately spent shipping costs based on the Order Priority? Explain your ans
 ## 👍Insights And Recommendations
 - Identify Top-Performing Product Categories
   - The Technology category had the highest sales (~4.7 million)
-Recommendation: Focus marketing and promotions around tech products, bundle them with accessories for higher value.
+Recommendation: Focus on marketing and promotions around tech products, bundle them with accessories for higher value.
 
 - Regional Performance
   - Top Regions: Ontario, Prairie, Atlantic
